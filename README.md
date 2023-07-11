@@ -1,5 +1,5 @@
 # spring_boot_mongodb_docker
-Introduction
+Introduction:
 This project is a Spring Boot application that utilizes MongoDB as the database and can be deployed using Docker. The application provides a template for creating RESTful APIs with Spring Boot and interacting with a MongoDB database.
 
 The main objective of this project is to demonstrate the integration of Spring Boot with MongoDB and Docker. It showcases the basic setup and configuration required to build a web application that persists data in a MongoDB database and can be easily containerized using Docker.
@@ -10,7 +10,7 @@ The following technologies and frameworks are used in this project:
 Java 8+
 Spring Boot
 MongoDB
-Docker
+Docker-compose
 Installation
 To run this application locally, please follow these steps:
 
@@ -85,7 +85,6 @@ This project is licensed under the MIT License.
 Acknowledgments
 Include any acknowledgments or credits you'd like to give to individuals or sources that have inspired or helped you in your project.
 
-Feel free to modify and expand the sections according to your specific project requirements. This README.md template should provide a solid foundation for documenting your Spring Boot application with MongoDB in Docker. Best of luck with your project!
 
 
 
